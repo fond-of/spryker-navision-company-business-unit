@@ -11,7 +11,7 @@ use Spryker\Zed\Kernel\Persistence\AbstractRepository;
 class NavisionCompanyBusinessUnitRepository extends AbstractRepository implements NavisionCompanyBusinessUnitRepositoryInterface
 {
     /**
-     * {@inheritdoc}
+     * {@inheritDoc}
      *
      * @api
      *

@@ -13,7 +13,7 @@ use Spryker\Zed\Kernel\Business\AbstractFacade;
 class NavisionCompanyBusinessUnitFacade extends AbstractFacade implements NavisionCompanyBusinessUnitFacadeInterface
 {
     /**
-     * {@inheritdoc}
+     * {@inheritDoc}
      *
      * @api
      *
